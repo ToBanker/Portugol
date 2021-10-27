@@ -1,0 +1,8 @@
+O algorimo é uma série de passos finitos necessarios para a realização de uma determinada tarefa.
+ex: Receita de bolo, passo-a-passo de como escovar os dentes.
+
+Um programa é um algoritimo escrito em código, depois de convertido para uma linguagem aceita por um 
+computador real.
+ex:um codigo escrito em linguagem de código, interpretado por um compilador e traduzido em codigo binario, deixando assim
+compreensivel para a execução da aplicação pelo hardware.
+

@@ -1,0 +1,8 @@
+
+//Raphaela B M Martins
+
+1 -
+
+Algoritmo é uma sequência de passos para realizar uma tarefa, como uma receita de bolo.
+
+Programa de computador é um conjunto de instruções que descrevem uma tarefa a ser realizada que é convertido para linguagem de máquina e executado pelo computador, como um programa que calcula e imprime uma tabuada.
